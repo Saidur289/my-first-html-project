@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+
+#Box1{border:5px,solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background-color: aqua;
+margin-right: 50%;
+margin-left: 50%;
+}
+
+
+#Box2{border:5px,solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background-color: ghostwhite;
+    
+}
+
